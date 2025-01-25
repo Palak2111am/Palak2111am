@@ -1,7 +1,7 @@
-👋 Hi, I’m @Palak2111am
-👀 I’m interested in astronomy, data analytics, machine learning, and programming.
-🌱 I’m currently learning data visualization, image processing, and expanding my knowledge in astronomical data science.
-💞️ I’m looking to collaborate on projects related to astronomical data analysis, software development, or anything that bridges tech and space exploration.
+👋 Hi, I’m Palak<br>
+👀 I’m interested in astronomy, data analytics, machine learning, and programming.<br>
+🌱 I’m currently learning data visualization, image processing, and expanding my knowledge in astronomical data science.<br>
+💞️ I’m looking to collaborate on projects related to astronomical data analysis, software development, or anything that bridges tech and space exploration.<br>
 📫 How to reach me: You can connect with me through LinkedIn or email at palakpatel2111am@gmail.com 
 
 ## 🌐 Socials:
